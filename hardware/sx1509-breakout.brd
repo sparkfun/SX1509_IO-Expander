@@ -239,6 +239,8 @@ Breakout</text>
 <text x="19.05" y="2.54" size="1.016" layer="21" font="vector" ratio="15" rot="R90" align="center-left">SCL</text>
 <text x="8.001" y="8.89" size="1.016" layer="22" font="vector" ratio="15" rot="MR0" align="center">1</text>
 <text x="52.07" y="-8.89" size="1.27" layer="51" font="vector" ratio="15">Jim Lindblom</text>
+<text x="4.826" y="27.94" size="0.889" layer="22" font="vector" ratio="15" rot="MR0" align="center-right">SJ4</text>
+<text x="19.685" y="27.94" size="0.889" layer="22" font="vector" ratio="15" rot="MR180" align="center-right">SJ5</text>
 </plain>
 <libraries>
 <library name="SparkFun-DigitalIC">
