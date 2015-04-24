@@ -38,7 +38,7 @@
 <layer number="28" name="bValues" color="7" fill="1" visible="no" active="yes"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="yes"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="yes"/>
-<layer number="31" name="tCream" color="7" fill="4" visible="no" active="yes"/>
+<layer number="31" name="tCream" color="7" fill="4" visible="yes" active="yes"/>
 <layer number="32" name="bCream" color="7" fill="5" visible="no" active="yes"/>
 <layer number="33" name="tFinish" color="6" fill="3" visible="no" active="yes"/>
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="yes"/>
@@ -189,7 +189,6 @@ Breakout</text>
 <text x="20.955" y="3.81" size="0.889" layer="16" font="vector" ratio="15" rot="MR315" align="bottom-center">v11</text>
 <text x="12.827" y="21.336" size="1.143" layer="21" font="vector" ratio="15" align="top-center">SX1509
 Breakout</text>
-<wire x1="3.81" y1="22.479" x2="3.81" y2="23.241" width="0.254" layer="30"/>
 <text x="6.35" y="33.02" size="1.016" layer="21" font="vector" ratio="15" rot="R90" align="center-right">!INT</text>
 <text x="8.89" y="33.02" size="1.016" layer="21" font="vector" ratio="15" rot="R90" align="center-right">!RST</text>
 <text x="11.43" y="33.02" size="1.016" layer="21" font="vector" ratio="15" rot="R90" align="center-right">GND</text>
