@@ -17,15 +17,15 @@ Features include:
 Repository Contents
 -------------------
 
-* **/Arduino** - This directory contains the Arduino library. This directory's structure follows that of your standard Arduino sketchbook installation. A *libraries* folder within contains the **SX1509 library**.
-* **/hardware** - This directory contains the Eagle design files - the breakout PCB and schematic design. These files were created with version 6.2.0 of Eagle Cad - a lite version is available, for free, at [www.cadsoftusa.com](http://www.cadsoftusa.com).
-* **/Production** - Test bed files and production panel files
+* **/Hardware** - Eagle design files (.brd, .sch)
+* **/Libraries** - Libraries for use with the SparkFun SX1509 Breakout.
+* **/Production** - Production panel files (.brd)
 
 Product Versions
 -------------------
 
 * [BOB-13601](https://www.sparkfun.com/products/13601) - SX1509 16 I/O Breakout Board (v20)
-* [BOB-11502](https://www.sparkfun.com/products/retired/11502)- (Retired) 16 I/O I2C port expander (v10)
+* [BOB-11502](https://www.sparkfun.com/products/retired/11502)- (Retired) SX1509 16 I/O I2C port expander (v10)
 
 License Information
 -------------------
