@@ -1,8 +1,8 @@
 SX1509 16 Output I/O Expander Breakout
 ======================================
 
-[![SX1509 16 Output I/O Expander Breakout](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/1/5/0/2/11502-01_medium.jpg)  
-*SX1509 16 Output I/O Expander Breakout (BOB-11502)*](https://www.sparkfun.com/products/11502)
+[![SX1509 16 Output I/O Expander Breakout](https://cdn.sparkfun.com//assets/parts/1/0/9/5/6/13601-01.jpg)  
+*SX1509 16 Output I/O Expander Breakout (BOB-13601)*](https://www.sparkfun.com/products/13601)
 
 The SX1509 16 Output I/O Expander Breakout Board makes it easy to prototype using the SX1509 so you can add more I/O onto your Arduino or I/O limited controller. It can leverage your I2C interface for 16 extra channels of GPIO and contains a fully programmable LED driver and a keypad scanning engine which enables continuous keypad monitoring of up to 64 keys. Since the I/O banks can operate between 1.2V and 3.6V (5.5V tolerant) independent of both the core and each other, this device can also work as a level-shifter.
 
@@ -18,16 +18,24 @@ Repository Contents
 -------------------
 
 * **/Arduino** - This directory contains the Arduino library. This directory's structure follows that of your standard Arduino sketchbook installation. A *libraries* folder within contains the **SX1509 library**.
-
 * **/hardware** - This directory contains the Eagle design files - the breakout PCB and schematic design. These files were created with version 6.2.0 of Eagle Cad - a lite version is available, for free, at [www.cadsoftusa.com](http://www.cadsoftusa.com).
+* **/Production** - Test bed files and production panel files
+
+Product Versions
+-------------------
+
+* [BOB-13601](https://www.sparkfun.com/products/13601) - SX1509 16 I/O Breakout Board (v20)
+* [BOB-11502](https://www.sparkfun.com/products/retired/11502)- (Retired) 16 I/O I2C port expander (v10)
 
 License Information
 -------------------
 
-The hardware is released under [Creative Commons Share-alike 3.0](http://creativecommons.org/licenses/by-sa/3.0/).  
-All other code is open source hardware so please feel free to do anything you want with it; you buy me a beer if you use this and we meet someday ([Beerware license](http://en.wikipedia.org/wiki/Beerware)).
+This product is _**open source**_!
 
-Author
-------
+The **code** is beerware; if you see me (or any other SparkFun employee) at the local, and you've found our code helpful, please buy us a round!
 
-Jim Lindblom, SparkFun Electronics
+Please use, reuse, and modify these files as you see fit. Please maintain attribution to SparkFun Electronics and release anything derivative under the same license.
+
+Distributed as-is; no warranty is given.
+
+- Your friends at SparkFun.
