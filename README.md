@@ -1,9 +1,8 @@
 SparkFun 16 Output I/O Expander Breakout - SX1509
 ======================================
 
-![SparkFun 16 Output I/O Expander Breakout - SX1509](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/1/5/0/2/11502-01_medium.jpg)  
-
-[*SparkFun 16 Output I/O Expander Breakout - SX1509 (BOB-11502)*](https://www.sparkfun.com/products/11502)
+[![SX1509 16 Output I/O Expander Breakout](https://cdn.sparkfun.com//assets/parts/1/0/9/5/6/13601-01.jpg)  
+*SX1509 16 Output I/O Expander Breakout (BOB-13601)*](https://www.sparkfun.com/products/13601)
 
 The SX1509 16 Output I/O Expander Breakout Board makes it easy to prototype using the SX1509 so you can add more I/O onto your Arduino or I/O limited controller. It can leverage your I2C interface for 16 extra channels of GPIO and contains a fully programmable LED driver and a keypad scanning engine which enables continuous keypad monitoring of up to 64 keys. Since the I/O banks can operate between 1.2V and 3.6V (5.5V tolerant) independent of both the core and each other, this device can also work as a level-shifter.
 
@@ -21,12 +20,11 @@ Repository Contents
 * **/Libraries** - Libraries for use with the <PRODUCT NAME>
 * **/Production** - Production panel files (.brd)
 
-Documentation
---------------
-* **[Library](https://github.com/sparkfun/SparkFun_SX1509_Arduino_Library)** - Arduino library.
-* **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
-* **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products. 
+Product Versions
+-------------------
 
+* [BOB-13601](https://www.sparkfun.com/products/13601) - SX1509 16 I/O Breakout Board (v20)
+* [BOB-11502](https://www.sparkfun.com/products/retired/11502)- (Retired) SX1509 16 I/O I2C port expander (v10)
 
 License Information
 -------------------
@@ -41,8 +39,3 @@ Please use, reuse, and modify these files as you see fit. Please maintain attrib
 Distributed as-is; no warranty is given.
 
 - Your friends at SparkFun.
-
-Author
-------
-
-Jim Lindblom, SparkFun Electronics
