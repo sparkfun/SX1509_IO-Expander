@@ -20,6 +20,15 @@ Repository Contents
 * **/Libraries** - Libraries for use with the <PRODUCT NAME>
 * **/Production** - Production panel files (.brd)
 
+Documentation
+--------------
+* **[Library](https://github.com/sparkfun/SparkFun_SX1509_Arduino_Library)** - <LANGUAGE> library for the <PRODUCT NAME>.
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/sx1509-io-expander-breakout-hookup-guide?_ga=1.227875988.863167751.1453149924)** - Basic hookup guide for the <PRODUCT NAME>.
+* **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
+* **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products. 
+* **[SparkFun Graphical Datasheets](https://github.com/sparkfun/Graphical_Datasheets)** -Graphical Datasheets for various SparkFun products.
+
+
 Product Versions
 -------------------
 
